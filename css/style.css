@@ -1,0 +1,24 @@
+/*selector{
+property:value;
+}*/
+h1{
+	color: red;
+}
+p{
+	color: green;
+}
+body{
+	background-color: lightpink;
+}
+#paraOne{
+	color: blue;
+}
+#paraTwo{
+	
+}
+#paraThree{
+	
+}
+.commonPara{
+	color: red;
+}
